@@ -1,44 +1,25 @@
-Vrushali-Sanap
-Hi there! 👋 I’m Vrushali Sanap, a passionate software developer with a love for open-source projects and continuous learning. I specialize in Data Analytics and work with a variety of technologies, including programming languages, data visualization tools, databases, and data cleaning tools. I’m always eager to explore new libraries, frameworks, and tools to enhance my skills.
+# 👋 Hi there! I'm Vrushali Sanap  
 
+I’m a **passionate Software Developer** specializing in **Data Analytics**, with a strong enthusiasm for **open-source projects** and **continuous learning**. I love working with data, uncovering insights, and leveraging technology to drive meaningful decisions.  
 
+---
 
-🌱 What I Do
-Data Analytics: I analyze and interpret complex datasets to help businesses make informed decisions.
+## 🌱 What I Do  
 
-Data Visualization: I create interactive and informative visualizations using tools like Tableau and Power BI.
+- **📊 Data Analytics** – Analyze and interpret complex datasets to support data-driven decision-making.  
+- **📈 Data Visualization** – Create interactive and insightful visualizations using **Tableau** and **Power BI**.  
+- **💻 Programming** – Skilled in **Python, R, and SQL** for data manipulation and analysis.  
+- **🗄️ Database Management** – Proficient in **SQL, PostgreSQL, and Google BigQuery** for efficient data storage and querying.  
+- **🛠 Data Cleaning** – Utilize **pandas, OpenRefine, and NumPy** to clean and transform raw data.  
 
-Programming Languages: I work with Python, R, and SQL to manipulate and analyze data.
+---
 
-Database Management: I’m experienced in SQL, PostgreSQL, and Google BigQuery for data storage and querying.
+## 🔧 Technologies & Tools  
 
-Data Cleaning: I use tools like OpenRefine, pandas, and NumPy for data cleaning and transformation.
-
-
-
-🔧 Technologies & Tools
+```yaml
 Programming Languages: Python, R, SQL
-
 Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
-
 Databases: PostgreSQL, MySQL, Google BigQuery
-
 Data Cleaning: pandas, OpenRefine, Dplyr (R)
-
 Cloud Platforms: AWS, Google Cloud Platform, Microsoft Azure
-
-Machine Learning Libraries: scikit-learn, TensorFlow (for future exploration)
-
-
-
-📈 Projects & Contributions
-Building data-driven projects and visualizations to help make data more accessible and actionable.
-
-Contributing to open-source repositories related to data science and data analysis.
-
-Exploring new tools, libraries, and frameworks to expand my skillset.
-
-
-
-🤝 Let's Connect
-Feel free to reach out for collaboration, questions, or just a friendly chat about tech! Let’s build something great together. 💬
+Machine Learning (Exploring): scikit-learn, TensorFlow
